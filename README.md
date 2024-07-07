@@ -11,3 +11,11 @@ As one of my first projects, I have created a simple program that allows you to 
 
 The user will be prompted to make a choice/move by entering a number corresponding to each box from 1-9. After, the AI will make its move against you. The game continues until either player wins or loses or a tie.
 
+### From the code:
+Choose a number from 1-9 within the boxes below.
+
+                         1 | 2 | 3
+                        --------------
+                         4 | 5 | 6
+                        --------------
+                         7 | 8 | 9
