@@ -19,3 +19,6 @@ Choose a number from 1-9 within the boxes below.
                          4 | 5 | 6
                         --------------
                          7 | 8 | 9
+
+## References: 
+[Bro Code](https://youtu.be/_889aB2D1KI?si=zJY1RjjobQv67pTV)
